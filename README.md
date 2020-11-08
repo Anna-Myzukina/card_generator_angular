@@ -7,7 +7,7 @@ This project was generated with:
 
 ### Try Live version:
 
-- [ ] [Card generator live version](https://password-generator-angular-one.vercel.app/)
+- [ ] [Card generator live version](https://card-generator-angular.vercel.app/)
 
 ## Install [Bulma](https://bulma.io/)
 
