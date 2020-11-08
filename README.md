@@ -1,6 +1,27 @@
 # Card
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This project was generated with:
+* [ ] [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+* [ ] [Bulma]() version
+* Deploying Angular app with [vercel.com](https://vercel.com/) (*early it was now.sh)
+
+### Try Live version:
+
+- [ ] [Card generator live version](https://password-generator-angular-one.vercel.app/)
+
+## Install [Bulma](https://bulma.io/)
+
+```
+$npm install bulma
+```
+- [ ] import bulma in card/style.css
+
+```
+@import "bulma/css/bulma.css";
+```
+
+
+
 
 ## Development server
 
